@@ -1,1 +1,1 @@
-# computervision-yolo
+# object-detection
